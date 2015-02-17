@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Stephen Poletto. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
+
 #define kGoogleAPIKey @"YOUR_API_KEY"
 #define kGoogleAPINSErrorCode 42
 
